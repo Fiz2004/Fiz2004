@@ -1,16 +1,16 @@
 ## Обо мне
 
-- 💻 На данный момент нахожусь в поиске работы.
-- ✌🏻 Надеюсь на сотрудничество.
-- 📫 Готов к изучению и применению новых технологий.
+- 💻 На данный момент нахожусь в поиске работы с сфере Android разработки;
+- ✌🏻  Надеюсь на сотрудничество;
+- 📫 С моими работами можно ознакомиться <a href="https://github.com/Fiz2004/Portfolio">по ссылке </a>.
 
 ## Связь со мной
 
-<a href="mailto:fiz2004@rambler.com">
-  <img src="https://img.shields.io/badge/Rambler-blue?style=for-the-badge" />
-</a>&nbsp;
 <a href="https://telegram.me/Fiz2004">
   <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
+</a>&nbsp;
+<a href="mailto:fiz2004@rambler.com">
+  <img src="https://img.shields.io/badge/Rambler-blue?style=for-the-badge" />
 </a>&nbsp;
 
 ## Языки программирования
@@ -34,9 +34,9 @@
 
 ## About me
 
-- 💻 At the moment I am looking for a job.
-- ✌🏻 I hope for cooperation.
-- 📫 Ready to study and apply new technologies.
+- 💻 Now I am looking for a job in the field of Android development;
+- ✌🏻  I hope for cooperation;
+- 📫  You can get acquainted with my works <a href="https://github.com/Fiz2004/Portfolio">at the link</a>.
   
 ## Connect me
 
@@ -51,10 +51,6 @@
 
 <img  src="https://img.shields.io/badge/Kotlin-8382E3?style=for-the-badge&logo=kotlin&logoColor=white">&nbsp;
 <img  src="https://img.shields.io/badge/JavaScript-fff200?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
-
-## My portfolio
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fiz2004&repo=Portfolio)](https://github.com/Fiz2004/Portfolio)
 
 ## GitHub stats
 
