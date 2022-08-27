@@ -1,8 +1,8 @@
 ## Обо мне
 
-- 💻 На данный момент нахожусь в поиске работы в сфере Android разработки;
-- ✌🏻   Надеюсь на сотрудничество;
-- 📫 С моими работами можно ознакомиться <a href="https://github.com/Fiz2004/Portfolio">по ссылке </a>.
+- 📱 Занимаюсь android разработкой;
+- ✌🏻 Стремлюсь к развитию;
+- 🗄  С моими работами можно ознакомиться <a href="https://github.com/Fiz2004/Portfolio">по ссылке </a>.
 
 ## Связь со мной
 
@@ -34,9 +34,9 @@
 
 ## About me
 
-- 💻 Now I am looking for a job in the field of Android development;
-- ✌🏻  I hope for cooperation;
-- 📫  You can get acquainted with my works <a href="https://github.com/Fiz2004/Portfolio">at the link</a>.
+- 📱 I am engaged in android development;
+- ✌🏻 I strive for development;
+- 🗄  You can get acquainted with my works <a href="https://github.com/Fiz2004/Portfolio">at the link</a>.
   
 ## Connect me
 
